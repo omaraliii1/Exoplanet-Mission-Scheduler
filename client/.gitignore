@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# npm lock files
+package-lock.json
