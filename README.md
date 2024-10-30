@@ -1,4 +1,4 @@
-# NASA Project
+# Exoplanet Mission Scheduler
 
 Nasa Project is a full-stack application for scheduling interstellar missions to potential exoplanets based on habitability criteria. The project is built with a React front end, Node.js and Express backend, and MongoDB for database storage.
 
